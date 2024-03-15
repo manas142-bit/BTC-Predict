@@ -87,7 +87,7 @@ text-align: center;
 }
 </style>
 <div class="footer">
-<p style="color: white;">Developed with ❤ by <a style='display: block; text-align: center;' >Sherwin Roger</a></p>
+<p style="color: white;">Developed with ❤ by <a style='display: block; text-align: center;' >Prasannakumar</a></p>
 </div>
 """
 st.markdown(footer,unsafe_allow_html=True)
